@@ -1,0 +1,9 @@
+.unread {
+    background-color: grey;
+}
+
+button {
+    background-color: pink;
+     margin: 5px;
+     padding: 10px;
+}
