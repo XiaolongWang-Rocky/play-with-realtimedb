@@ -1,0 +1,7 @@
+.message-card {
+    height: 400px;
+    margin: 5px;
+    border: 1px solid black;
+    background-color: bisque;
+    color: black;
+}
