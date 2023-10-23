@@ -1,0 +1,9 @@
+.message-card {
+    background-color: blue;
+    margin: 5px;
+    height: 100px;
+}
+
+.pinned {
+    background-color: brown;
+}
