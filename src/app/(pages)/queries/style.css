@@ -7,3 +7,10 @@
 .pinned {
     background-color: brown;
 }
+
+button {
+    background-color: gray;
+    display: block;
+    border: 1px solid black;
+    margin: 6px
+}
